@@ -11,9 +11,9 @@ Transformación de datos mediante Power Query, aplicación de funciones DAX y di
 
 ## [Dashboard link](https://github.com/eliancba/Fomicustiks/tree/main/FOMICUSTIKS/pbix)
 
-![previa]()
+![previa](https://github.com/eliancba/Fomicustiks/blob/main/FOMICUSTIKS/imagenes/PREVIA%201.png)
 
-![previa2]()
+![previa2](https://github.com/eliancba/Fomicustiks/blob/main/FOMICUSTIKS/imagenes/PREVIA%202.png)
 #
 
 ## Herramientas utilizadas
